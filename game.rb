@@ -1,8 +1,8 @@
 require './aquarium.rb'
 
 aq = Aquarium.new
-while aq.pikes != 0 && aq.crucians != 0
+while aq.pikes && aq.crucians
   aq.print_aquarium
-  aq.stroke 
+  aq.stroke
   sleep 1
 end

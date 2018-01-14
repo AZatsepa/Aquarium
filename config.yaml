@@ -1,5 +1,4 @@
- config:
-  vertical_size:     6
-  horizontal_size:   8
-  crucians_quantity: 3
-  pikes_quantity:    6
+vertical_size:     6
+horizontal_size:   8
+crucians_quantity: 3
+pikes_quantity:    9
